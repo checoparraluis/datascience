@@ -1,2 +1,2 @@
 # datascience
-All about Data Science SQL, Pythong, Machine Learning
+All about Data Science SQL, Python, Machine Learning
