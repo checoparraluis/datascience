@@ -1,3 +1,3 @@
-# datascience
-All about Data Science: SQL, Python, Machine Learning Projects
+# Data Science
+Excel, Tableau, SQL, Python, Machine Learning Projects
  
